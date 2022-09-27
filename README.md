@@ -30,7 +30,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh" height="30" width="40" />
  </a>
 <a href="https://codesandbox.io/u/Hars28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="Hars28" height="30" width="40" /></a>
-<a href="https://twitter.com/mr_shah_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hars28" height="30" width="40" /></a>
+
 
 </p>
 
