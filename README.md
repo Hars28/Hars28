@@ -54,10 +54,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-    <img src="https://img.shields.io/badge/Babel-FFF?style=for-the-badge&logo=babel&logoColor=black" alt="babel" />
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
-    <img src="https://img.shields.io/badge/WEBPACK-FFF?style=for-the-badge&logo=webpack&logoColor=blue" alt="webpack" />
-    <img src="https://img.shields.io/badge/heroku-green?style=for-the-badge&logo=heroku&logoColor=8F00FF" alt="webpack" />
     
 </p>
 
