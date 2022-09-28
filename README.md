@@ -1,9 +1,28 @@
 [![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)]()
 
-<h1 align="center">Hi 👋, I'm Harsh Singh</h1>
+<h1 align="center"> 😇(Hello everyone) I'm Harsh Singh 👋</h1>
+<h3 align="center">A passionate Full Stack Developer from Chattisgarh,India</h3>
 
-<h3 align="center">A passionate full stack web developer from Raigarh,Chattisgarh, India</h3>
+About me
+---
 
+I'm a Full Stack Developer. I fell in love with programming and I have at least learnt something, I think… 🤷‍♂️
+I am fluent in classics like Javascript.
+
+My field of Interest's are building new  Web Technologies and Products. and also in areas related to Deep Learning and Natural Launguage Processing.
+
+Whenever possible, I also apply my passion for developing products with Node.js and Modern Javascript Library and Frameworks  like React.js, Express
+
+I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have work experience in multiple project and colne project with team collaboration.
+
+
+
+
+                                          
+- 🌱 I’m currently learning **Full Stack Developer (Masai School)**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://hars28.github.io)
+-  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/10O048LcFUU0VNSw2L1K2ufaOBndOsgkZ/view?usp=sharing)
+- 📫 How to reach me: ...**harsh.singh9055@gmail.com**
 <p align="center" display="flex" justifyContent="space-between">
   <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" align="center" height="400px" width="60%"/>
 </p>
@@ -17,12 +36,6 @@
         <img src="https://img.shields.io/github/followers/Hars28?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
-
-- 👨‍💻 All of my projects are available at [hars28.github.io](khalidshah12.github.io)
-
-- 📫 How to reach me **harsh.singh9055@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10O048LcFUU0VNSw2L1K2ufaOBndOsgkZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
